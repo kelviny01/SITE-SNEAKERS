@@ -40,27 +40,27 @@ header {
 }
 
 #img-1 {
-  background-image: url('tenis1.jpg')
+  background-image: url('/img/tenis1.jpg')
 }
 
 #img-2 {
-  background-image: url('tenis2.jpg')
+  background-image: url('/img/tenis2.jpg')
 }
 
 #img-3 {
-  background-image: url('tenis3.jpg')
+  background-image: url('/img/tenis3.jpg')
 }
 
 #img-4 {
-  background-image: url('tenis4.jpg')
+  background-image: url('/img/tenis4.jpg')
 }
 
 #img-5 {
-  background-image: url('tenis5.jpg')
+  background-image: url('/img/tenis5.jpg')
 }
 
 #img-6 {
-  background-image: url('tenis6.jpg');
+  background-image: url('/img/tenis6.jpg');
 }
 
 h3 {
